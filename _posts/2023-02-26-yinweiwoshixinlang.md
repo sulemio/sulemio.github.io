@@ -2,7 +2,7 @@
 layout: post
 title:  "因为我是新郎"
 author: user
-categories: [ Travel ]
+categories: [ Doujin ]
 image: assets/images/yinweiwoshixinlang/001.jpg
 ---
 
