@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "真夜中の魔女"
+title:  "因为我是新郎"
 author: user
 categories: [ Travel ]
 image: assets/images/yinweiwoshixinlang/001.jpg
