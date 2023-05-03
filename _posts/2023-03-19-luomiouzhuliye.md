@@ -27,6 +27,3 @@ image: assets/images/luomiouzhuliye/001.png
 ![](../assets/images/luomiouzhuliye/017.png)
 ![](../assets/images/luomiouzhuliye/018.png)
 ![](../assets/images/luomiouzhuliye/019.png)
-![](../assets/images/luomiouzhuliye/020.png)
-![](../assets/images/luomiouzhuliye/021.png)
-![](../assets/images/luomiouzhuliye/022.png)

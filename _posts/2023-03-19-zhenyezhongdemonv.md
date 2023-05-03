@@ -6,7 +6,7 @@ categories: [ Doujin ]
 image: assets/images/zhenyezhongdemonv/001.png
 ---
 
-機動戦士ガンダム水星の魔女のスレミオです。百合えっち本です。ミオリネが「どうせ出来ないんでしょ?」とスレッタを煽ったら、「花婿ですから」と意外にもやる気を見せて、初えっちしちゃうお話です。
+ミオリネが「どうせ出来ないんでしょ?」とスレッタを煽ったら、「花婿ですから」と意外にもやる気を見せて、初えっちしちゃうお話です。
 
 ![](../assets/images/zhenyezhongdemonv/001.png)
 ![](../assets/images/zhenyezhongdemonv/002.png)
