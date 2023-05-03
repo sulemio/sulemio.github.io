@@ -2,7 +2,7 @@
 layout: post
 title:  "真夜中の魔女"
 author: user
-categories: [ Travel ]
+categories: [ Doujin ]
 image: assets/images/zhenyezhongdemonv/001.png
 ---
 
