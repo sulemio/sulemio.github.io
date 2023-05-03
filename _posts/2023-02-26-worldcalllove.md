@@ -55,6 +55,6 @@ image: assets/images/worldcalllove/001.png
 
 ![](../assets/images/worldcalllove/022.png)
 
-![](../assets/images/worldcalllove/022.png)
+![](../assets/images/worldcalllove/023.png)
 
 ![](../assets/images/worldcalllove/024.png)
