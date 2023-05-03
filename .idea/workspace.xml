@@ -5,22 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11dc55a5-0ca3-42cc-a52b-0e5de7965358" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-06-12-education.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-12-01-press-and-education.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-12-01-the-observer.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-01-french-wine.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-01-review-oscar.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-01-that-day-we-almost-missed-flight.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-11-post-with-spoiler..md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-12-external-featured-image.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-12-london.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-12-one-day-just-started-adventure.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-02-1-much-more-than-a-desert-trip-to-sahara.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-03-19-zhenyezhongdemonv.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-02-2-les-ambassadeurs.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-02-05-sulemiotiezhi.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2022-12-30-skirthike.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2022-12-30-skirthike.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-02-26-yinweiwoshixinlang.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-02-26-yinweiwoshixinlang.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-03-25-zhenyezhongdemonv.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/theme.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/theme.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/images/1.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/images/11.jpg" beforeDir="false" />
