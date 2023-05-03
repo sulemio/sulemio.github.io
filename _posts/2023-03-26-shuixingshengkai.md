@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "水星に咲くポム・ダムール "
+title:  "水星に咲くポム・ダムール"
 author: user
 categories: [ Doujin ]
 image: assets/images/shuixingshengkai/001.jpg
